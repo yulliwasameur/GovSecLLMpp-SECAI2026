@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "GovSecLLM++: A Compliance-Aware Benchmark for Security Testing and Governance Evidence in LLM-Based Applications"
+message: "If you use this benchmark or artifacts, please cite this repository and the accompanying paper."
+type: software
+authors:
+  - family-names: Ameur
+    given-names: Yulliwas
+    orcid: "https://orcid.org/0000-0003-1435-2982"
+  - family-names: Bouzefrane
+    given-names: Samia
+    orcid: "https://orcid.org/0000-0002-0979-1289"
+  - family-names: Khoukhi
+    given-names: Lyes
+    orcid: "https://orcid.org/0000-0002-1922-769X"
+repository-code: "https://github.com/yulliwasameur/GovSecLLMpp-SECAI2026"
+license: MIT
+version: "0.1.0"
+date-released: "2026-06-11"
+keywords:
+  - LLM security
+  - AI governance
+  - compliance-aware benchmarking
+  - prompt injection
+  - RAG security
+  - auditability
+  - agentic AI

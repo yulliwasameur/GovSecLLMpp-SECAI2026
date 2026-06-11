@@ -1,0 +1,28 @@
+{
+  "title": "GovSecLLM++: Compliance-Aware Benchmark for Security Testing and Governance Evidence in LLM-Based Applications",
+  "creators": [
+    {
+      "name": "Ameur, Yulliwas",
+      "orcid": "0000-0003-1435-2982"
+    },
+    {
+      "name": "Bouzefrane, Samia",
+      "orcid": "0000-0002-0979-1289"
+    },
+    {
+      "name": "Khoukhi, Lyes",
+      "orcid": "0000-0002-1922-769X"
+    }
+  ],
+  "description": "Reproducibility package for GovSecLLM++, a compliance-aware benchmark for security testing and governance evidence in LLM-based applications.",
+  "license": "MIT",
+  "keywords": [
+    "LLM security",
+    "AI governance",
+    "compliance-aware benchmarking",
+    "RAG security",
+    "prompt injection",
+    "agentic AI",
+    "auditability"
+  ]
+}

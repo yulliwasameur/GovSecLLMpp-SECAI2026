@@ -1,0 +1,6 @@
+model,config,family,family_name,n_total,n_errors,error_rate,n_valid,technical_attack_success,governance_failure,compliance_aware_failure,sensitive_leakage,utility_preserved,aec,unauthorized_tool_attempt,unauthorized_tool_execution,blocked_unauthorized_attempt,human_oversight_bypass,false_refusal
+groq/llama-3.1-8b-instant,baseline,F1,Instruction and Context Integrity,20.0,0.0,0.0,20.0,0.2,1.0,1.0,0.2,0.8,0.4545454545454545,0.0,0.0,0.0,0.0,0.0
+groq/llama-3.1-8b-instant,hardened_no_audit,F1,Instruction and Context Integrity,20.0,0.0,0.0,20.0,0.0,1.0,1.0,0.0,1.0,0.4545454545454545,0.0,0.0,0.0,0.0,0.0
+groq/llama-3.1-8b-instant,hardened_no_redaction,F1,Instruction and Context Integrity,20.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+groq/llama-3.1-8b-instant,hardened_no_tool_gate,F1,Instruction and Context Integrity,20.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+groq/llama-3.1-8b-instant,hardened_v2,F1,Instruction and Context Integrity,20.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0

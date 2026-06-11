@@ -1,0 +1,31 @@
+{
+  "created_utc": "2026-06-11T04:20:07.446766Z",
+  "repository": "https://github.com/yulliwasameur/GovSecLLMpp-SECAI2026",
+  "benchmark": "GovSecLLM++",
+  "n_scenarios": 210,
+  "main_real_backend": "groq/llama-3.1-8b-instant",
+  "main_real_backend_runs": 1050,
+  "smoke_test_excluded_from_reported_metrics": true,
+  "files": [
+    ".gitignore",
+    ".zenodo.json",
+    "CITATION.cff",
+    "LICENSE",
+    "README.md",
+    "data/scenario_cards.csv",
+    "data/scenario_cards.jsonl",
+    "figures/groq_heatmap_cafr_by_family.png",
+    "figures/groq_overall_metrics_by_model.png",
+    "results/full/groq_full_application_summary.csv",
+    "results/full/groq_full_family_summary.csv",
+    "results/full/groq_full_results.csv",
+    "results/full/groq_full_results.jsonl",
+    "results/full/groq_full_summary.csv",
+    "results/smoke/groq_smoke_application_summary.csv",
+    "results/smoke/groq_smoke_family_summary.csv",
+    "results/smoke/groq_smoke_results.csv",
+    "results/smoke/groq_smoke_results.jsonl",
+    "results/smoke/groq_smoke_summary.csv",
+    "tables/groq_overall_results.tex"
+  ]
+}
